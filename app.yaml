@@ -1,5 +1,5 @@
 application: morsee-line-bot
-version: v2
+version: v3
 
 runtime: go
 api_version: go1
